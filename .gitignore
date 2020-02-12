@@ -1,0 +1,8 @@
+app/*.sqlite
+*.lock
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.toml
+.python-version

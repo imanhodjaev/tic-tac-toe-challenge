@@ -1,0 +1,7 @@
+app/*.sqlite
+app/tests
+__pycache__/
+*.py[cod]
+*$py.class
+*.toml
+*.lock
